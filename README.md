@@ -41,6 +41,13 @@ This code converts the monthly periods to strings and creates two line charts sh
 <img width="1158" height="839" alt="Capture d’écran (122)" src="https://github.com/user-attachments/assets/116b8857-4094-457d-ae5b-82bd58303c9a" />
 This code calculates the net revenue by subtracting the value of returned products from the total revenue.
 <img width="1223" height="749" alt="Capture d’écran (123)" src="https://github.com/user-attachments/assets/5b009e0a-8ae6-427f-9af6-2a16777cdb7a" />
+This code calculates the total net revenue for each category and sorts the categories from highest to lowest net revenue.
+<img width="1214" height="540" alt="Capture d’écran (124)" src="https://github.com/user-attachments/assets/093e85e8-0e26-41c4-bd44-be80577209c9" />
+This code creates a bar chart to visualize the net revenue for each category, with the categories sorted from highest to lowest net revenue.
+<img width="1212" height="823" alt="Capture d’écran (125)" src="https://github.com/user-attachments/assets/ab91e1bc-e955-4091-a18a-552a38b1b6a9" />
+
+
+
 
 
 
